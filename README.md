@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Raymond</h1>
 
 
-<p align="left"> <a href="https://twitter.com/_raymond_zhang" target="blank"><img src="https://img.shields.io/twitter/follow/_raymond_zhang?logo=twitter&style=for-the-badge" alt="_raymond_zhang" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raymond_zhang9" target="blank"><img src="https://img.shields.io/twitter/follow/_raymond_zhang?logo=twitter&style=for-the-badge" alt="_raymond_zhang" /></a> </p>
 
 <h2>I'm Web Developer & Designer, Vimer, Gopher</h2>
 <p align="left">
