@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/raymond_zhang9" target="blank"><img src="https://img.shields.io/twitter/follow/raymond_zhang9?logo=twitter&style=for-the-badge" alt="raymond_zhang9" /></a> </p>
 
-<h2>I'm Web Developer & Designer, Vimer, Gopher</h2>
+<h2>I'm Software Engineer work on JavaScript, Golang and Vim</h2>
 <p align="left">
   
 - 🌱 I’m currently learning **Golang, Rust and Operating System**
